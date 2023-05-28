@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask9\Task 68\bin\Debug\net7.0\Task 68.exe
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask9\Task 68\bin\Debug\net7.0\Task 68.deps.json
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask9\Task 68\bin\Debug\net7.0\Task 68.runtimeconfig.json
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask9\Task 68\bin\Debug\net7.0\Task 68.dll
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask9\Task 68\bin\Debug\net7.0\Task 68.pdb
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask9\Task 68\obj\Debug\net7.0\Task 68.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask9\Task 68\obj\Debug\net7.0\Task 68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask9\Task 68\obj\Debug\net7.0\Task 68.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask9\Task 68\obj\Debug\net7.0\Task 68.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask9\Task 68\obj\Debug\net7.0\Task 68.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask9\Task 68\obj\Debug\net7.0\Task 68.dll
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask9\Task 68\obj\Debug\net7.0\refint\Task 68.dll
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask9\Task 68\obj\Debug\net7.0\Task 68.pdb
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask9\Task 68\obj\Debug\net7.0\Task 68.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask9\Task 68\obj\Debug\net7.0\ref\Task 68.dll
